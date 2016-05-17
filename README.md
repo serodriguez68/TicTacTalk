@@ -1,5 +1,8 @@
 # TicTacTalk
 
+Requires jQuery.
+# TicTacTalk
+
 TLDR;
 Interruptions are bad.
 
